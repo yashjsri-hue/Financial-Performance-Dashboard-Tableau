@@ -1,0 +1,17 @@
+# Tableau temporary and backup files
+*.tmp
+*.bak
+
+# Tableau lock files
+*.lck
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Windows thumbnail cache
+ehthumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
